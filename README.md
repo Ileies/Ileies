@@ -6,7 +6,6 @@
 
 ### 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peterweiser87)
 [![Discord](https://img.shields.io/badge/Ileies-5865F2?logo=discord&logoColor=white)](https://discord.com/)
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-coral)](https://rizinos.com)
 
