@@ -1,6 +1,6 @@
 ﻿### 💫 About Me:
 
-🗺️ I'm a Software Engineer from Germany, currently residing in Switzerland<br>
+🗺️ I'm a Software Engineer from Germany<br>
 🚀 Currently I'm learning Svelte<br>
 🌎 My main interest is trying to understand the world, but I also code a bit :)<br>
 
