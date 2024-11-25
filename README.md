@@ -1,7 +1,7 @@
 ﻿### 💫 About Me:
 
 🗺️ I'm a Software Engineer from Germany<br>
-🚀 Currently I'm learning Svelte<br>
+🚀 Currently I'm enjoying Svelte 5<br>
 🌎 My main interest is trying to understand the world, but I also code a bit :)<br>
 
 ### 🌐 Socials:
