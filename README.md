@@ -7,7 +7,7 @@
 ### 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Ileies-5865F2?logo=discord&logoColor=white)](https://discord.com/)
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-coral)](https://rizinos.com)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-coral)](https://ileies.de)
 
 ### 💻 Tech Stack:
 
